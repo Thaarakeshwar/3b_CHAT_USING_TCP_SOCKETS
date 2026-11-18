@@ -45,14 +45,7 @@ while True:
 
 ## OUPUT
 
-client.py
-
-<img width="1481" height="288" alt="564880597-1b99b52c-b9fb-48e6-b908-351e3e65f5f5" src="https://github.com/user-attachments/assets/e9fa9fc2-ba07-4ba5-98a1-6e28ac65545c" />
-
-
-server.py
-
-<img width="1483" height="284" alt="564880745-8ebd620d-c05b-4268-9fea-7881391b967d" src="https://github.com/user-attachments/assets/00fcb28f-b1e3-48e2-a87d-fd25436a094b" />
+<img width="1467" height="217" alt="image" src="https://github.com/user-attachments/assets/987e07a9-4337-4326-b749-23a34b270f94" />
 
 
 ## RESULT
